@@ -9,10 +9,10 @@ Olá Sou o Leandro
 
   Frameworks de automação
   
-- 💬 Pactum JS 
-- 📫 Selenium Web Driver ...
-- 😄 Playwright
-- ⚡ RobotFramework
+- 🤖 Pactum JS 
+- 🤖 Selenium Web Driver ...
+- 🤖 Playwright
+- 🤖 RobotFramework
   
 <div> 
   <a href="https://www.youtube.com/channel/UCx9AcErVhwwkGgnziPoZn0g" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
