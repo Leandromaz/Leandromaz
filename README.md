@@ -7,7 +7,8 @@ Olá Sou o Leandro
 - 🧑‍💻 Gerkim 
 - 🥒 Cucumber
 - 🔎 Testes exploratórios
-  
+- 📚 Behavior Driven Development (BDD) 
+
   Frameworks de automação
   
 - 🤖 Pactum JS 
@@ -15,7 +16,8 @@ Olá Sou o Leandro
 - 🤖 Playwright
 - 🤖 RobotFramework
 
-Soft skill
+  Soft skill
+
 <br>
 - 👦 trabalho  em equipe 
 - 📣 Boa comunicação 
@@ -31,11 +33,3 @@ Soft skill
   <a href="https://www.linkedin.com/in/leandro-luiz-mazzuchello-6530a0116" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
-
- </div>
-  
- ###  
-  
-   ![Snake animation](https://github.com/Leandromaz/Leandromaz/blob/output/github-contribution-grid-snake.svg)
-    
-  </div>
