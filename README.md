@@ -17,8 +17,7 @@ Olá Sou o Leandro
 Soft skill
 <br>
 - 👦 trabalho  em equipe 
-<br>
-  -📣 Boa comunicação 
+- 📣 Boa comunicação 
 <br>
 - 📚 Inteligência emocional
 <br>
