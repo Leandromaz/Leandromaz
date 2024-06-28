@@ -17,7 +17,6 @@ Olá Sou o Leandro
 - 🤖 RobotFramework
 
   Soft skill
-
 <br>
 - 👦 trabalho  em equipe 
 - 📣 Boa comunicação 
