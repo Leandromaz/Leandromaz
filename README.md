@@ -11,7 +11,7 @@ Olá Sou o Leandro
   Frameworks de automação
   
 - 🤖 Pactum JS 
-- 🤖 Selenium Web Driver ...
+- 🤖 Selenium Web Driver
 - 🤖 Playwright
 - 🤖 RobotFramework
 
