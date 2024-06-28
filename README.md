@@ -6,7 +6,7 @@ Olá Sou o Leandro
 - 💻 Testes funcional 
 - 🧑‍💻 Gerkim 
 - 🥒 Cucumber
-- 🔎 Testes explorátórios
+- 🔎 Testes exploratórios
   
   Frameworks de automação
   
