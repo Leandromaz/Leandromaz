@@ -6,7 +6,8 @@ Olá Sou o Leandro
 - 💻 Testes funcional 
 - 🧑‍💻 Gerkim 
 - 🥒 Cucumber
-
+- 🔎 Testes explorátórios
+  
   Frameworks de automação
   
 - 🤖 Pactum JS 
