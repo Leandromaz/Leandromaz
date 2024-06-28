@@ -9,6 +9,7 @@ Olá Sou o Leandro
 - 🔎 Testes exploratórios
 - 📚 Behavior Driven Development (BDD) 
 
+
  Frameworks de automação
  
 - 🤖 Pactum JS 
@@ -16,7 +17,8 @@ Olá Sou o Leandro
 - 🤖 Playwright
 - 🤖 RobotFramework
 
-  Soft skill
+
+Soft skill
   
 - 👦 trabalho  em equipe 
 - 📣 Boa comunicação 
