@@ -16,9 +16,15 @@ Olá Sou o Leandro
 
 Soft skill
 <br>
-👦 trabalho  em equipe 
+- 👦 trabalho  em equipe 
 <br>
-📣 Boa comunicação 
+- 📣 Boa comunicação 
+<br>
+- 📚 Inteligência emocional
+<br>
+- 👯 Altruista
+<br>
+- 🧑‍💼 pró ativo
 <div> 
   <a href="https://www.youtube.com/channel/UCx9AcErVhwwkGgnziPoZn0g" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/pcdleandromaz" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
