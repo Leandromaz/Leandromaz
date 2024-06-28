@@ -1,6 +1,6 @@
 Olá Sou o Leandro
 
- Profissional graduado em Ciências da Computação e Pós Graduado em Engenharia de Qualidade de software. Sou um PCD (Pessoa com deficiência) com conhecimentos
+ Sou um QA PCD, graduado em Ciências da Computação e Pós Graduado em Engenharia de Qualidade de software com conhecimentos em :
 
 - 👩‍💻 Testes de API
 - 💻 Testes funcional 
