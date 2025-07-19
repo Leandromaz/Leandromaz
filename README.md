@@ -7,7 +7,8 @@ Olá Sou o Leandro
 - 🧑‍💻 Gerkim 
 - 🥒 Cucumber
 - 🔎 Testes exploratórios
-- 📚 Behavior Driven Development (BDD) 
+- 📚 Behavior Driven Development (BDD)
+- 🔎 Teste de performance
 
 
  Frameworks de automação
