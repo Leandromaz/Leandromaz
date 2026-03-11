@@ -1,6 +1,6 @@
 Olá Sou o Leandro
 
- Sou um QA (PCD),Entusiasta de tecnologia graduado em Ciências da Computação e Pós Graduado em Engenharia de Qualidade de software com conhecimentos e experiência em :
+ Sou um QA (PCD), entusiasta de tecnologia, graduado em Ciências da Computação e Pós Graduado em Engenharia de Qualidade de software com conhecimentos e experiência em :
 
 - 👩‍💻 Testes de API
 - 💻 Testes funcional
